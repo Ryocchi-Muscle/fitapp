@@ -1,0 +1,3 @@
+[submodule "fitapp-api"]
+	path = fitapp-api
+	url = https://github.com/Ryocchi-Muscle/fitapp-api
